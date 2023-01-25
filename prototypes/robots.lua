@@ -286,7 +286,7 @@ data:extend({
             },
             time = 60
         },
-        age = "qunatum-age",
+        age = "quantum-age",
     },
 })
 
