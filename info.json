@@ -1,0 +1,11 @@
+{
+    "name": "exotic-industries-robots",
+    "version": "0.0.2",
+    "title": "Exotic Industries: Robots",
+    "author": "PreLeyZero",
+    "factorio_version": "1.1",
+    "description": "Adds various robots and roboport in the Exotic-Industries optic.",
+    "dependencies": [
+        "base >= 1.0.0"
+    ]
+}
