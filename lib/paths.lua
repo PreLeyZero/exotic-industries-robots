@@ -4,8 +4,8 @@
 --PATHS
 --====================================================================================================
 
-ei_loaders_path = "__exotic-industries-loaders__/"
+ei_robots_path = "__exotic-industries-robots__/"
 
-ei_loaders_entity_path = ei_loaders_path.."graphics/entities/"
-ei_loaders_item_path = ei_loaders_path.."graphics/items/"
-ei_loaders_tech_path = ei_loaders_path.."graphics/techs/"
+ei_robots_entity_path = ei_robots_path.."graphics/entities/"
+ei_robots_item_path = ei_robots_path.."graphics/items/"
+ei_robots_tech_path = ei_robots_path.."graphics/techs/"
