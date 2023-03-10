@@ -653,7 +653,7 @@ data:extend({
 		},
 		working_light = {intensity = 0.8, size = 3},
         max_payload_size = 5,
-		speed = 0.05,
+		speed = 0.1,
 		transfer_distance = 0.5,
 		max_energy = "0.5MJ",
 		energy_per_tick = "0.14kJ",
